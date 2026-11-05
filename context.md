@@ -16,3 +16,4 @@
 ## 3. Methodological & Integrity Standards
 - Strict anti-hallucination verification of all academic references and DOIs.
 - Explicit demarcation between published empirical synthesis and future research proposals.
+

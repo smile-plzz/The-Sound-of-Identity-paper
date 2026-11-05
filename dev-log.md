@@ -9,3 +9,4 @@
 - Updated author attribution to Md. Ismail Hossain (Institute of Information Technology, Jahangirnagar University).
 - Integrated contact information and profile links (LinkedIn, GitHub, Facebook, Email, Portfolio) across README.md, context.md, and paper/manuscript.md.
 - Created workflow governance files: context.md, dev-log.md, CHANGELOG.md.
+
